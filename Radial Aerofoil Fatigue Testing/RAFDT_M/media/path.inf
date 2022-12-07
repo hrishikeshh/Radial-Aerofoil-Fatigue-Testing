@@ -1,0 +1,9 @@
+[svg]
+background=background.svg
+cross_grey=cross_grey.svg
+question_blue=question_blue.svg
+question_orange=question_orange.svg
+warning_yellow=warning_yellow.svg
+
+[icon]
+icon=icon.ico
